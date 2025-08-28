@@ -51,15 +51,16 @@ This is a mobile app built with **Flutter** that allows users to order food and 
 3. **Login Screen** – Login with Remember Me.  
 ![Login Screen](assets/screenshots/login.png)
 
-4. **Signup Steps 1 & 2** – User registration with validations.  
+4. **Signup Steps 1 & 2** – User registration with validations.
+   
+  4.1  Signup Steps 1 
    ![Signup Step 1](assets/screenshots/signup1.png)
-   4.1  Signup Steps 1
- 
-
+  
   4.2 Signup Steps 2
   ![Signup Step 2](assets/screenshots/signup2.png)
 
 5. **Home Screen**
+   
   5.1 Customer Home
   ![Customer Home Screen](assets/screenshots/Customerhome.png)
 
@@ -67,6 +68,7 @@ This is a mobile app built with **Flutter** that allows users to order food and 
   ![Admin Home Screen](assets/screenshots/Adminhome.png)
 
 6. **Product Detail Screen** – Shows product name, description, image.
+   
    6.1 Menu Screen (Customer)
   ![Menu Screen (Customer)](assets/screenshots/Menu.png)
 
@@ -74,6 +76,7 @@ This is a mobile app built with **Flutter** that allows users to order food and 
   ![Product Screen (Admin)](assets/screenshots/Product.png)
 
 7. **Cart Screen** – Shows selected products, total price, checkout.
+   
    7.1 Add to Cart Screen
   ![Add to Cart Screen](assets/screenshots/addToCart.png)
 
@@ -84,6 +87,7 @@ This is a mobile app built with **Flutter** that allows users to order food and 
 ![Favorite Screen](assets/screenshots/Favorite.png)
 
 9. **View Orders Screen**
+    
    9.1 View Order (Admin)
   ![Admin](assets/screenshots/orders1.png)
 
@@ -91,6 +95,7 @@ This is a mobile app built with **Flutter** that allows users to order food and 
   ![Customer](assets/screenshots/orders2.png)
 
 10. **Profile Screen** – Login with Remember Me.
+    
   10.1 Profile Info Screen
   ![profile info Screen](assets/screenshots/profileInfo.png)
 
