@@ -146,7 +146,7 @@ class _HomeScreenState extends State<HomeScreen> {
           Stack(
             children: [
               Image.asset(
-                "assets/srce.png",
+                "assets/img.png",
                 width: double.infinity,
                 height: 100,
                 fit: BoxFit.cover,
