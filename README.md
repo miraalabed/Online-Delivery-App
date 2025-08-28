@@ -43,65 +43,64 @@ This is a mobile app built with **Flutter** that allows users to order food and 
 ## 🖥 Screens
 
 1. **Splash Screen** – Animated app logo.  
-![Splash Screen](assets/screenshots/splash.png)
+   ![Splash Screen](assets/screenshots/splash.png)
 
 2. **Onboarding Screen** – Intro to app features.  
-![Onboarding Screen](assets/screenshots/onboarding.png)
+   ![Onboarding Screen](assets/screenshots/onboarding.png)
 
 3. **Login Screen** – Login with Remember Me.  
-![Login Screen](assets/screenshots/login.png)
+   ![Login Screen](assets/screenshots/login.png)
 
-4. **Signup Steps 1 & 2** – User registration with validations.
-   
-  4.1  Signup Steps 1 
+4. **Signup Steps 1 & 2** – User registration with validations.  
+
+   4.1 Signup Step 1  
    ![Signup Step 1](assets/screenshots/signup1.png)
-  
-  4.2 Signup Steps 2
-  ![Signup Step 2](assets/screenshots/signup2.png)
 
-5. **Home Screen**
-   
-  5.1 Customer Home
-  ![Customer Home Screen](assets/screenshots/Customerhome.png)
+   4.2 Signup Step 2  
+   ![Signup Step 2](assets/screenshots/signup2.png)
 
-  5.2 Admin Home
-  ![Admin Home Screen](assets/screenshots/Adminhome.png)
+5. **Home Screen**  
 
-6. **Product Detail Screen** – Shows product name, description, image.
-   
-   6.1 Menu Screen (Customer)
-  ![Menu Screen (Customer)](assets/screenshots/Menu.png)
+   5.1 Customer Home  
+   ![Customer Home Screen](assets/screenshots/Customerhome.png)
 
-  6.2 Shop and Product Screen (Admin
-  ![Product Screen (Admin)](assets/screenshots/Product.png)
+   5.2 Admin Home  
+   ![Admin Home Screen](assets/screenshots/Adminhome.png)
 
-7. **Cart Screen** – Shows selected products, total price, checkout.
-   
-   7.1 Add to Cart Screen
-  ![Add to Cart Screen](assets/screenshots/addToCart.png)
+6. **Product Detail Screen** – Shows product name, description, image.  
 
-  7.2 Cart Screen
-  ![Cart Screen](assets/screenshots/cart.png)
+   6.1 Menu Screen (Customer)  
+   ![Menu Screen (Customer)](assets/screenshots/Menu.png)
 
-8. **Favorite Screen** – Shows Favorite products.  
-![Favorite Screen](assets/screenshots/Favorite.png)
+   6.2 Shop and Product Screen (Admin)  
+   ![Product Screen (Admin)](assets/screenshots/Product.png)
 
-9. **View Orders Screen**
-    
-   9.1 View Order (Admin)
-  ![Admin](assets/screenshots/orders1.png)
+7. **Cart Screen** – Shows selected products, total price, checkout.  
 
-  9.2 View Order (Customer)
-  ![Customer](assets/screenshots/orders2.png)
+   7.1 Add to Cart Screen  
+   ![Add to Cart Screen](assets/screenshots/addToCart.png)
 
-10. **Profile Screen** – Login with Remember Me.
-    
-  10.1 Profile Info Screen
-  ![profile info Screen](assets/screenshots/profileInfo.png)
+   7.2 Cart Screen  
+   ![Cart Screen](assets/screenshots/cart.png)
 
-  10.2 Edit Profile Screen
-  ![profile edit Screen](assets/screenshots/profileEdit.png)
+8. **Favorite Screen** – Shows favorite products.  
+   ![Favorite Screen](assets/screenshots/Favorite.png)
 
+9. **View Orders Screen**  
+
+   9.1 View Order (Admin)  
+   ![Admin](assets/screenshots/orders1.png)
+
+   9.2 View Order (Customer)  
+   ![Customer](assets/screenshots/orders2.png)
+
+10. **Profile Screen** – Login with Remember Me.  
+
+    10.1 Profile Info Screen  
+    ![Profile Info Screen](assets/screenshots/profileInfo.png)
+
+    10.2 Edit Profile Screen  
+    ![Profile Edit Screen](assets/screenshots/profileEdit.png)
 
 
 ------------------------------------------------------------------------
