@@ -52,8 +52,9 @@ This is a mobile app built with **Flutter** that allows users to order food and 
 ![Login Screen](assets/screenshots/login.png)
 
 4. **Signup Steps 1 & 2** – User registration with validations.  
-  4.1  Signup Steps 1
-  ![Signup Step 1](assets/screenshots/signup1.png)
+   ![Signup Step 1](assets/screenshots/signup1.png)
+   4.1  Signup Steps 1
+ 
 
   4.2 Signup Steps 2
   ![Signup Step 2](assets/screenshots/signup2.png)
