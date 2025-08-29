@@ -84,7 +84,7 @@ This is a mobile app built with *Flutter* that allows users to order food and ot
    9.2 View Order (Customer)  
    ![Customer](assets/screenshots/orders2.png)
 
-10. *Profile Screen* – Login with Remember Me.  
+10. *Profile Screen* – View and edit profile information.  
     ![Profile Edit Screen](assets/screenshots/profile.png)
 
 
