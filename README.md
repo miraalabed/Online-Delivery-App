@@ -1,4 +1,4 @@
-#  Online Delivery App
+#  Online Delivery Application
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.13-blue) ![Dart](https://img.shields.io/badge/Dart-3.1-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Stars](https://img.shields.io/github/stars/miraalabed/online_delivery_app)
 
