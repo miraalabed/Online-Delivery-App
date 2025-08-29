@@ -104,8 +104,7 @@ This is a mobile app built with *Flutter* that allows users to order food and ot
 1. Clone this repository:
 
 bash
-git clone https://github.com/miraalabed/online_delivery_app.git
-
+git clone https://github.com/miraalabed/Online-Delivery-App.git
 
 2. Install dependencies:
 
